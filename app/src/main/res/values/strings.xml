@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Abylay_drawable_navigation_bar</string>
+
+    <string name="navigation_open"> Open Navigation Drawer</string>
+    <string name="navigation_close"> Close Navigation Drawer</string>
+
+</resources>
